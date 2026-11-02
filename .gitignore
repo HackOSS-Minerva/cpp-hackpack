@@ -1,0 +1,20 @@
+# Prerequisites / compiled object files
+*.o
+*.obj
+
+# Build directory
+build/
+bin/
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# clangd / tooling cache
+.cache/
+compile_commands.json
+
